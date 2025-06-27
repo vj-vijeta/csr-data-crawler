@@ -1,0 +1,6 @@
+{
+  "name": "version2  Company Data Crawler - CSR & Corporate Profiling Assistant",
+  "description": "An intelligent assistant to fetch, organize, and display public company information, focusing on CSR efforts and key personnel using AI-powered search and web grounding.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
