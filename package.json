@@ -1,5 +1,5 @@
 {
-  "name": "version2--company-data-crawler---csr-&-corporate-profiling-assistant",
+  "name": "company-data-crawlercsr",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,16 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@": "latest",
     "@google/genai": "^1.5.1",
     "react": "^19.1.0",
-    "react/jsx-runtime": "^19.1.0",
-    "react/jsx-dev-runtime": "^19.1.0",
-    "react-dom/client": "^19.1.0",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
   }
